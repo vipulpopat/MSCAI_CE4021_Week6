@@ -1,5 +1,6 @@
 # Week6
-Purpose
+
+### Purpose
 The purpose of this E-tivity is to introduce the basics of probability theory.
 
 Task (Complete by Saturday Week 6)
@@ -38,11 +39,14 @@ GIT push your implementation and post the description of your problem to E-tivit
 
 Include calculated values of points 1 and 2 above.
 Provide a link to your branch.
-Respond (Complete by Wednesday Week 7)
+
+### Respond (Complete by Wednesday Week 7)
 Respond to one of your peers with:
 
 A respectful and in-depth analysis of their approach.
 Suggestions for improvements or alternative solutions for the code.
-Reflect (Complete by Saturday Week 7)
+
+
+### Reflect (Complete by Saturday Week 7)
 Use the feedback provided to you, and any other insights you have gained since writing the original code to improve the code you wrote in this E-tivity. GIT push the result to your remote branch.
 
